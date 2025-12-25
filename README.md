@@ -1,3 +1,43 @@
+
+# 🛒 Projet Commerce
+
+**Laravel web application for managing an online shop**
+
+---
+
+## 📌 Description
+A complete e-commerce management system built with the **Laravel framework**.  
+The application allows managing **articles, categories and packs**, with **user authentication** and **access control**.  
+It follows the **MVC architecture** and applies **Laravel best practices**.
+
+---
+
+## ✨ Features
+- Article management (CRUD)
+- Category management
+- Pack management (many-to-many relationship)
+- User authentication (register, login, logout)
+- Form validation using FormRequest
+- Authorization using Policies
+- Responsive Bootstrap UI
+
+---
+
+## 🛠️ Technology Stack
+- **Laravel 11**
+- **MySQL**
+- **Bootstrap 5**
+- **Blade Templates**
+
+---
+
+## 🎓 Academic Project
+**FSEG Sfax**  
+3ème Licence Informatique de Gestion  
+*Framework Développement Web*  
+**2025 – 2026**
+
+---
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,44 +104,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-# 🛒 Projet Commerce
-
-**Laravel web application for managing an online shop**
-
----
-
-## 📌 Description
-A complete e-commerce management system built with the **Laravel framework**.  
-The application allows managing **articles, categories and packs**, with **user authentication** and **access control**.  
-It follows the **MVC architecture** and applies **Laravel best practices**.
-
----
-
-## ✨ Features
-- Article management (CRUD)
-- Category management
-- Pack management (many-to-many relationship)
-- User authentication (register, login, logout)
-- Form validation using FormRequest
-- Authorization using Policies
-- Responsive Bootstrap UI
-
----
-
-## 🛠️ Technology Stack
-- **Laravel 11**
-- **MySQL**
-- **Bootstrap 5**
-- **Blade Templates**
-
----
-
-## 🎓 Academic Project
-**FSEG Sfax**  
-3ème Licence Informatique de Gestion  
-*Framework Développement Web*  
-**2025 – 2026**
-
----
-
